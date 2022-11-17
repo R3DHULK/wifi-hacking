@@ -5,7 +5,7 @@ Victims of DoS attacks often target web servers of high-profile organizations su
 </i></h2>
 
 ##
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsecurityboulevard.com%2F2020%2F06%2Fdenial-of-service-dos-attacks-web-based-application-security-part-7%2F&psig=AOvVaw1MNVAsgVTsaATsTGiN_yuJ&ust=1668768025986000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLjO5L2DtfsCFQAAAAAdAAAAABAE">
+<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fsecurityboulevard.com%2F2020%2F06%2Fdenial-of-service-dos-attacks-web-based-application-security-part-7%2F&psig=AOvVaw1MNVAsgVTsaATsTGiN_yuJ&ust=1668768025986000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLjO5L2DtfsCFQAAAAAdAAAAABAE](https://www.onelogin.com/images/patterns/text-image/ddos-volumetric-attack.png)">
 
 #
 
